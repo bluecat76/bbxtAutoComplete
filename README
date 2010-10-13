@@ -1,2 +1,14 @@
 == bbxtAutocomplete - BareBones Edit/TextWrangler plug-in
 
+= Introduction
+
+This plug-in is an extension to BareBones TextWrangler (http://www.barebones.com/products/textwrangler/). 
+On invocation, it gives you an auto-completion for the word your cursor is on, similar to those found in 
+IDEs. It does this by looking through all words found in the current document only, but this can really save 
+you time nonetheless.
+
+= Installation
+
+= Copyright
+
+(c) 2010 by Guido Pinkas

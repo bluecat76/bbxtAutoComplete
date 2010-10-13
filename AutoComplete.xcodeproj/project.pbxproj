@@ -10,6 +10,8 @@
 		56EEFDDD0A30B56B009BBC68 /* BBXTInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EADE3FB056EA1D1004A4EFC /* BBXTInterface.h */; };
 		56EEFDE00A30B56B009BBC68 /* AutoComplete.c in Sources */ = {isa = PBXBuildFile; fileRef = 2E55EF5D050F764E006BE845 /* AutoComplete.c */; };
 		56EEFDE20A30B56B009BBC68 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08EA7FFBFE8413EDC02AAC07 /* Carbon.framework */; };
+		F3C7C4F31266443300F19569 /* README in Resources */ = {isa = PBXBuildFile; fileRef = F3C7C4F11266443300F19569 /* README */; };
+		F3C7C4F41266443300F19569 /* VERSION in Resources */ = {isa = PBXBuildFile; fileRef = F3C7C4F21266443300F19569 /* VERSION */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +32,8 @@
 		2EADE3FB056EA1D1004A4EFC /* BBXTInterface.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; name = BBXTInterface.h; path = ../SDK/Interfaces/Tools/BBXTInterface.h; sourceTree = SOURCE_ROOT; };
 		56EEFDEB0A30B56B009BBC68 /* AutoComplete.bbxt */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoComplete.bbxt; sourceTree = BUILT_PRODUCTS_DIR; };
 		56EEFDF70A30B5F8009BBC68 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
+		F3C7C4F11266443300F19569 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		F3C7C4F21266443300F19569 /* VERSION */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VERSION; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +51,8 @@
 		089C166AFE841209C02AAC07 /* Hello World */ = {
 			isa = PBXGroup;
 			children = (
+				F3C7C4F11266443300F19569 /* README */,
+				F3C7C4F21266443300F19569 /* VERSION */,
 				56EEFDF70A30B5F8009BBC68 /* Info.plist */,
 				08FB77ADFE841716C02AAC07 /* Source */,
 				2EADE401056EA1FA004A4EFC /* SDK Headers */,
@@ -138,6 +144,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3C7C4F31266443300F19569 /* README in Resources */,
+				F3C7C4F41266443300F19569 /* VERSION in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
