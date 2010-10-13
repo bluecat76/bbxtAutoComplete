@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>AutoComplete</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>BBXT</string>
+	<key>CFBundleVersion</key>
+	<string>0.5.0</string>
+	<key>CSResourcesFileMapped</key>
+	<true/>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>com.barebones.bbxtinfo</key>
+	<array>
+		<dict>
+			<key>BBXFRequiresModifiableWindow</key>
+			<false/>
+			<key>BBXFIsTool</key>
+			<false/>
+			<key>BBXFRequiresEditWindow</key>
+			<false/>
+			<key>BBXFRequiresSelection</key>
+			<false/>
+			<key>BBXFSupportsRectangularSelection</key>
+			<false/>
+			<key>BBXTHelpBookName</key>
+			<string>__PRODUCT__</string>
+			<key>BBXTHelpPagePath</key>
+			<string>plugins.htm</string>
+			<key>BBXTOnlineInfoURL</key>
+			<string>http://www.barebones.com/support/bbedit/bbedit-plugins.html</string>
+			<key>MainFunctionName</key>
+			<string>AutoComplete</string>
+			<key>MenuName</key>
+			<string>AutoComplete</string>
+		</dict>
+	</array>
+</dict>
+</plist>
