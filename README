@@ -19,8 +19,8 @@ AutoComplete tool.
 
 == Building From Source
 
-To build this, you will need the BareBones Plug-In SDK from this page:
-http://www.barebones.com/support/develop/
+To build the AutoComplete plug-in using the XCode project, you will need the BareBones 
+Plug-In SDK from this page: http://www.barebones.com/support/develop/
 
 == Author
 
