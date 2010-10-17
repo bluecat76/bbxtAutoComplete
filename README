@@ -17,6 +17,13 @@ Then set a key combination to run it (f.i. CTRL-SPACE). You can do this by selec
 "Window/Palettes/Plug-In Tools" in the Menu and using the "Set Key..." button for the 
 AutoComplete tool.
 
+== Usage
+
+You can use the selected key kombination to complete the word you begin to write. Use the 
+key kombination repeatedly to switch through all available completion possibilities.
+If you have f.i. a text like 'This is a test text.' and you invoke AutoComplete after 
+writing a 't' afterwards, you get 'est' and on the next invocation 'ext' as completion selection. 
+
 == Building From Source
 
 To build the AutoComplete plug-in using the XCode project, you will need the BareBones 
