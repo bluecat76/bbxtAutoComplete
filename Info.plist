@@ -13,7 +13,7 @@
 	<key>CFBundleSignature</key>
 	<string>BBXT</string>
 	<key>CFBundleVersion</key>
-	<string>0.5.0</string>
+	<string>0.6</string>
 	<key>CSResourcesFileMapped</key>
 	<true/>
 	<key>CFBundleIdentifier</key>

@@ -33,6 +33,14 @@ Plug-In SDK from this page: http://www.barebones.com/support/develop/
 
 * Guido Pinkas
 
+== Changelog
+
+Version 0.6: 2010-10-20
+* [Feature] improved handling of items separated by dot, like object.method
+
+Version 0.5: 2010-10-13
+* first public release
+
 == License
 
 The MIT License
