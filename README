@@ -1,5 +1,10 @@
 = bbxtAutocomplete - BareBones Edit/TextWrangler plug-in
 
+UPDATE: Barebones removed the BBXT Plug-In interface from TextWrangler with version 3.5, 
+therefore this solution isn't working any more.
+You can use the new script version TwAutoComplete from here: 
+http://github.com/bluecat76/TwAutoComplete
+
 == Introduction
 
 This plug-in is an extension to BareBones TextWrangler (http://www.barebones.com/products/textwrangler/). 
